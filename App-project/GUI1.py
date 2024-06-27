@@ -1,3 +1,8 @@
+
+#This Python script creates a graphical user interface (GUI) using the Tkinter library to collect and save user information. 
+#The information is stored in a JSON file. 
+#The script allows users to input their name, weight, height, age, gender, and activity level, 
+#and then saves this information when a button is clicked
 from tkinter import Tk, Label, Button, Entry, messagebox, Toplevel
 import json
 

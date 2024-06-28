@@ -45,7 +45,8 @@
 
 
 
-
+#This Python script calculates the Basal Metabolic Rate (BMR) and daily calorie needs
+#based on user inputs for weight, height, age, gender, and activity level.
 import json
 
 
